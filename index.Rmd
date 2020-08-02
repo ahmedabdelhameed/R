@@ -1,5 +1,5 @@
 ---
-title: "Index"
+title: "Index Page"
 output: html_document
 ---
 
