@@ -1,5 +1,6 @@
 ---
-title: "Introduction"
+title: "Index"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
