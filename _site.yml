@@ -4,11 +4,13 @@ navbar:
   title: "Chapters"
   left:
   - text: "Variables"
-    href: main.html
+    href: index.html
   - text: "Control Statements"
     href: control_statements.html
-  - text: "Speed and Distance"
-    href: introduction.html
+  - text: "Vectors"
+    href: vectors.html
 output:
   html_document:
+    theme: united
     toc: true
+    
