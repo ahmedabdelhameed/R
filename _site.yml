@@ -1,12 +1,14 @@
-name: "cars"
+name: "R Programming"
 output_dir: "docs"
 navbar:
-  title: "Cars"
+  title: "Chapters"
   left:
-  - text: "Home"
+  - text: "Varriables"
     href: index.html
+  - text: "Control Statements"
+    href: control_statements.html
   - text: "Speed and Distance"
     href: introduction.html
 output:
   html_document:
-theme: cosmo
+    theme: cosmo
