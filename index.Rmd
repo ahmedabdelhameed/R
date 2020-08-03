@@ -4,28 +4,33 @@ title: "Study Notes on R"
 ---
 
 
-## Types of Variables
+## **Types of Variables**
 This is a summary of R data types. It shows how to create variable and check its type. 
 
 ```{r}
+#integer
 x <- 3L
 typeof(x)
 
-y <- 2
+#double
+y <- 2.5
 typeof(y)
 
+#character
 z <- "a"
 typeof(z)
 
+#complex
 c <- 3 + 5i
 typeof(c)
 
+#logical
 b <- TRUE
 typeof(b)
 ```
 
 
-Simple Arithmetic Operations
+## **Simple Arithmetic Operations**
 
 ```{r}
 A <- 1
