@@ -11,4 +11,4 @@ navbar:
     href: introduction.html
 output:
   html_document:
-    theme: cosmo
+    toc: true
