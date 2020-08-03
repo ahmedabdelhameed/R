@@ -11,5 +11,6 @@ navbar:
     href: vectors.html
 output:
   html_document:
-    toc: true
-    
+    theme: flatly
+    highlight: tango
+   
