@@ -11,6 +11,5 @@ navbar:
     href: vectors.html
 output:
   html_document:
-    theme: united
     toc: true
     
