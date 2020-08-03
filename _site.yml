@@ -4,7 +4,7 @@ navbar:
   title: "Chapters"
   left:
   - text: "Variables"
-    href: index.html
+    href: main.html
   - text: "Control Statements"
     href: control_statements.html
   - text: "Speed and Distance"
